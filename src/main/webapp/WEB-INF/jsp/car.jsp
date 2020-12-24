@@ -35,7 +35,7 @@
 </head>
 
 <body>
-	<form:form name="myCar" action="/CarApp/addcar"
+	<form:form name="myCar" action="/addcar"
 		onsubmit="return validate()" method="POST">
 		<table>
 			<tr>
