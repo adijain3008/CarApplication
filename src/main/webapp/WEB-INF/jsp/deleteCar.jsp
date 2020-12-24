@@ -8,7 +8,7 @@
 </head>
 
 <body>
-	<form:form name="myCar" action="/CarApp/deleteCarId"
+	<form:form name="myCar" action="/deleteCarId"
 		onsubmit="return validate()" method="POST">
 		<table>
 			<tr>
